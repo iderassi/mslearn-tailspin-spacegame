@@ -3,7 +3,7 @@ trigger:
 
 
 pool:
-  name: Default 
+  name: MySelfHostedPool   
 
 variables:
    buildConfiguration : 'Release'
